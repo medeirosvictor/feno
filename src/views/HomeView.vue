@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+import ActivityItem from '../components/ActivityItem.vue'
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <ActivityItem />
   </main>
 </template>
